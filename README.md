@@ -48,7 +48,6 @@
 	{
 		return 0;
 	}
-'''
 '''bash
 	echo "test output"
 	echo '20230122' filename
