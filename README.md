@@ -33,11 +33,26 @@
 * socket编程
 * 泛型编程
 
+### 有序列表
 1. 线程技术
    1. 线程属性
       1. 修改属性改变线程栈
 2. socket编程
 3. 泛型编程
+### 代码块
+
+'''c
+	#include <unsitd.h>
+
+	int main(void)
+	{
+		return 0;
+	}
+'''
+'''bash
+	echo "test output"
+	echo '20230122' filename
+'''
 
 
 
