@@ -60,6 +60,6 @@
 关羽|技能-酒精过敏|No.4
 
 ### 超链接
-[百度搜索](https://www.baidu.com "点我就给你一嘴巴")
+[百度搜索](https://www.baidu.com "点我就给")
 
-![截图](https://imgloc.com/image/C6lfy1 "桌面截图")
+[C6lzsa.png](https://i.imgs.ovh/2025/12/01/C6lzsa.png)
