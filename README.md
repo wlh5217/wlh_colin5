@@ -62,4 +62,4 @@
 ### 超链接
 [百度搜索](https://www.baidu.com "点我就给")
 
-[C6lzsa.png](https://i.imgs.ovh/2025/12/01/C6lzsa.png)
+![截图](https://i.imgs.ovh/2025/12/01/C6lzsa.png)
